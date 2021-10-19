@@ -1,1 +1,3 @@
-creates a bitmap image of inputted string of text
+bitmap message
+    
+    creates a bitmap image of inputted string of text
